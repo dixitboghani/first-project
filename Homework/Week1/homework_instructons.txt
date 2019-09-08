@@ -1,0 +1,15 @@
+
+# Homework For Week1
+
+1. finish resume.html file
+  Your HTML File should include the following.
+   h1 - headings
+   h2 - headings
+   p - paragraphs
+   img - put your image
+   a - link tags to re-direct to your social media accounts
+   table - create table with your skills
+   ul/ol - create list with your degrees
+
+2. Go to Exercise_week1_a.js file . Finish all the exercises.
+3. Go to Exercise_week1_b.js file .Finish all the exercises.
