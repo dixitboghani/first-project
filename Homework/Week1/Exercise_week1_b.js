@@ -40,7 +40,9 @@ const Courses = [
  */
 
  
-let Courses_with_time_Monday;
+let Courses_with_time_Monday = () =>{
+    
+};
 //Your code below
 
 

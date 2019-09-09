@@ -1,13 +1,14 @@
 
+const Name = "dixit";
 
-const FirstName = 'John'
 
-const sayHello = () => {
-    return 'Hello from utils.js';
+
+const getMyName = () => {
+
+    return "This is from utils";
 }
 
-
 module.exports = {
-    FirstName,
-    sayHello
+    Name,
+    getMyName
 }

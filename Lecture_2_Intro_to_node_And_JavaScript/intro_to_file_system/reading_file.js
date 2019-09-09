@@ -1,3 +1,6 @@
-const fs = require('fs'); //asdasdas
+const fs = require('fs');
 
-console.log(fs.readFileSync('test.txt','utf-8'));
+
+let some_data = fs.readFileSync('testing.txt','utf-8');
+
+console.log(some_data);

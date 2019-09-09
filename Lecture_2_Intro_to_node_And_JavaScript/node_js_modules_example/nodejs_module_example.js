@@ -1,7 +1,5 @@
-
-const utils = require('./utils');
-
+const utils = require('./utils')
 
 
-console.log(utils.FirstName);
-console.log(utils.sayHello());
+console.log(utils.Name)
+console.log(utils.getMyName() )

@@ -1,5 +1,4 @@
-const fileSystem = require('fs');
+const file_system = require('fs');
 
 
-
-fileSystem.writeFileSync('test.txt', 'Hi, I am testing this');
+file_system.writeFileSync('testing.txt','I changed this text')
