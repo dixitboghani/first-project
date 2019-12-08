@@ -20,29 +20,29 @@ const Courses = [
  let Courses_with_name_Java;
 //Your code below
 
+let courses_with_name_java_by_filter=Courses.filter((items)=>{
+
+            return items.name === 'Java'
 
 
 
+})
 
-
-
-
-
-
-
- console.log(Courses_with_name_Java)
-
-
-
+ console.log(courses_with_name_java_by_filter)
 
  /**
  * 2. Write a function that prints out all courses with time === Monday
  */
 
  
-let Courses_with_time_Monday = () =>{
+let Courses_with_time_Monday =Courses.map ((items) =>{
+    if (items.time === "Monday"){
+        return items;
+    }
+    else 
+   
     
-};
+})
 //Your code below
 
 

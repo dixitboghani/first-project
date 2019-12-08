@@ -1,0 +1,14 @@
+{
+  "name": "intro_to_npm",
+  "version": "1.0.0",
+  "description": "this is some test",
+  "main": "node_request_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

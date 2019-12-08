@@ -1,0 +1,36 @@
+/*
+CSS example
+
+Selected Tag {
+ property: value;
+}
+
+*/
+
+
+
+h1 {
+    color: black;
+    margin-top: 50px;
+}
+
+h2 {
+    color: #0895a8;
+}
+
+body
+{
+ background: gray;
+ font-size: 1em;
+ /* 1em = 16px ; 2em = 32px*/
+}
+
+
+#testing {
+    background:red;
+}
+
+.testP {
+   font-size: 100px;
+   margin-top: 20px;
+}
